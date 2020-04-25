@@ -12,5 +12,5 @@
 3. w
 4. tym 
 6. pliku
-7. PS zauwarzyłeś brak 5?
+
 
