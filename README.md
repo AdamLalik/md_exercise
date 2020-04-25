@@ -12,5 +12,6 @@
 3. w
 4. tym 
 6. pliku
+[WSEI DL](http://dl.wsei.lublin.pl)
 
 
